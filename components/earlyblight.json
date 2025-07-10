@@ -1,0 +1,71 @@
+{
+  "crop": "Potato",
+  "disease": "Early Blight",
+  "confidence": "99.88%",
+  "symptoms": [
+    "Dark brown to black concentric spots on older leaves",
+    "Yellowing and withering of affected leaves",
+    "Spots may enlarge and form target-like patterns"
+  ],
+  "cause": "Fungus - Alternaria solani",
+  "favorable_conditions": [
+    "Warm, humid weather (24–29°C)",
+    "Frequent rain or irrigation",
+    "Nutrient-stressed or old plants"
+  ],
+  "recommended_practices": {
+    "cultural_controls": [
+      "Use certified disease-free seeds",
+      "Rotate crops (avoid planting potatoes or tomatoes in the same field every year)",
+      "Destroy plant debris after harvest",
+      "Ensure proper plant spacing for air flow"
+    ],
+    "organic_remedies": [
+      {
+        "name": "Neem oil spray",
+        "ingredients": [
+          "30 ml neem oil",
+          "1 liter water",
+          "Few drops of mild soap"
+        ],
+        "application": "Spray on affected leaves every 5–7 days early in the morning"
+      },
+      {
+        "name": "Baking soda spray",
+        "ingredients": [
+          "1 teaspoon baking soda",
+          "1 liter water",
+          "1 teaspoon vegetable oil",
+          "Few drops soap"
+        ],
+        "application": "Spray weekly to prevent fungal spread"
+      },
+      {
+        "name": "Cow dung slurry",
+        "application": "Ferment cow dung with water for 3 days, filter, and spray; helps as a microbial deterrent"
+      }
+    ],
+    "chemical_controls": [
+      {
+        "name": "Mancozeb 75% WP",
+        "dosage": "2.5 grams/liter of water",
+        "note": "Apply every 7–10 days during early symptoms"
+      },
+      {
+        "name": "Chlorothalonil 75% WP",
+        "dosage": "2 grams/liter",
+        "note": "Alternate with other fungicides to avoid resistance"
+      }
+    ]
+  },
+  "locally_available_solutions": [
+    "Neem oil (available in agri stores and online platforms)",
+    "Baking soda and soap (general household items)",
+    "Cow dung (locally available from cattle owners)",
+    "Mancozeb and Chlorothalonil (sold at local Krishi Kendras)"
+  ],
+  "precaution": "Always test any spray on a small part of the plant before full application. Use PPE when spraying chemicals.",
+  "last_updated": "2025-07-09",
+
+  "summary": "Fungal disease in tomatoes and potatoes. Causes dark leaf spots with concentric rings. Needs fungicide & rotation."
+}

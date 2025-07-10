@@ -1,0 +1,119 @@
+{
+  "soil": "Black Soil",
+  "confidence": "99.99%",
+  "soil_characteristics": {
+    "texture": "Clayey",
+    "color": "Dark black to reddish-black",
+    "moisture_retention": "High",
+    "fertility": "Rich in potash and lime, low in nitrogen and phosphorus",
+    "pH": "6.5–8.5",
+    "drainage": "Moderate to poor",
+    "workability": "Hard when dry, sticky when wet"
+  },
+  "recommended_crops_ranked": [
+    {
+      "crop": "Cotton",
+      "rank": 1,
+      "market_price_per_quintal": 7000,
+      "average_yield_per_acre_kg": 400,
+      "expected_income_per_acre": 28000,
+      "reasons": [
+        "Black soil holds moisture, ideal for long-duration cotton crops",
+        "High market demand, government MSP support",
+        "Deep roots benefit from clay structure"
+      ],
+      "input_requirements": [
+        "Moderate fertilizer (NPK 60:40:20)",
+        "Pest control (bollworm traps, neem sprays)",
+        "Requires 2–3 irrigations"
+      ]
+    },
+    {
+      "crop": "Soybean",
+      "rank": 2,
+      "market_price_per_quintal": 4000,
+      "average_yield_per_acre_kg": 900,
+      "expected_income_per_acre": 36000,
+      "reasons": [
+        "Short-duration crop, fits in kharif",
+        "Fixes nitrogen naturally",
+        "High adaptability to black soil moisture conditions"
+      ],
+      "input_requirements": [
+        "Low to moderate fertilizer",
+        "Rhizobium seed treatment",
+        "Requires pest monitoring (girdle beetle)"
+      ]
+    },
+    {
+      "crop": "Urad (Black Gram)",
+      "rank": 3,
+      "market_price_per_quintal": 8000,
+      "average_yield_per_acre_kg": 400,
+      "expected_income_per_acre": 32000,
+      "reasons": [
+        "Low input cost and improves soil fertility",
+        "Tolerates dry spells",
+        "Fits well in black soil post-cotton or soybean"
+      ],
+      "input_requirements": [
+        "Very low fertilizer use",
+        "Local seed available in villages",
+        "Minimal irrigation needed"
+      ]
+    },
+    {
+      "crop": "Jowar (Sorghum)",
+      "rank": 4,
+      "market_price_per_quintal": 2800,
+      "average_yield_per_acre_kg": 1000,
+      "expected_income_per_acre": 28000,
+      "reasons": [
+        "Traditional crop for black soil",
+        "Low water needs",
+        "Fodder + grain value"
+      ],
+      "input_requirements": [
+        "Minimal fertilizer",
+        "Local seed or hybrid options",
+        "Grows with monsoon rainfall"
+      ]
+    },
+    {
+      "crop": "Groundnut",
+      "rank": 5,
+      "market_price_per_quintal": 6000,
+      "average_yield_per_acre_kg": 500,
+      "expected_income_per_acre": 30000,
+      "reasons": [
+        "Grows well with medium black soils",
+        "Dual use: oil + fodder",
+        "Government procurement in some states"
+      ],
+      "input_requirements": [
+        "Requires good seed spacing",
+        "Calcium (gypsum) addition improves yield",
+        "Needs well-drained parts of black soil"
+      ]
+    }
+  ],
+  "general_recommendations": {
+    "organic_matter_addition": "Use compost or FYM to boost nitrogen levels",
+    "crop_rotation": "Rotate with pulses or legumes to maintain fertility",
+    "micronutrient_tips": [
+      "Zinc sulfate for leaf yellowing",
+      "Gypsum for high pH soil patches"
+    ],
+    "irrigation_tip": "Black soil retains water; avoid over-irrigation to prevent root rot"
+  },
+  "locally_available_inputs": [
+    "FYM and compost (from local gaushalas or farms)",
+    "Neem oil and bio-pesticides",
+    "Urea, DAP, Potash (from Krishi Seva Kendras)",
+    "Gypsum, Zinc, Rhizobium culture"
+  ],
+
+  "last_updated": "2025-07-09",
+
+  "summary": "Rich in iron, retains moisture. Ideal for cotton, soybeans, and pulses. Found in Deccan Plateau regions."
+}
